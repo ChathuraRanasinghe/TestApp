@@ -1,2 +1,2 @@
 # TestApp
-This is a test application 
+Here is a Sample Test Application for Salesfroce Developers.
